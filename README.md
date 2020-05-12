@@ -23,11 +23,11 @@ _Important: Require Python 3.x for work!_
 
 ### Apps using Bravtron (DEB):
 
-    * [netflix-20.05.12-amd64.deb](https://github.com/q3aql/bravtron/releases/download/v1.0/netflix-20.05.12-amd64.deb)
-    * [amazon-music-20.05.12-amd64.deb](https://github.com/q3aql/bravtron/releases/download/v1.0/amazon-music-20.05.12-amd64.deb)
-    * [prime-video-20.05.12-amd64.deb](https://github.com/q3aql/bravtron/releases/download/v1.0/prime-video-20.05.12-amd64.deb)
-    * [spotify-web-player-20.05.12-amd64.deb](https://github.com/q3aql/bravtron/releases/download/v1.0/spotify-web-player-20.05.12-amd64.deb)
-    * [stadia-20.05.12-amd64.deb](https://github.com/q3aql/bravtron/releases/download/v1.0/stadia-20.05.12-amd64.deb)
+   * [netflix-20.05.12-amd64.deb](https://github.com/q3aql/bravtron/releases/download/v1.0/netflix-20.05.12-amd64.deb)
+   * [amazon-music-20.05.12-amd64.deb](https://github.com/q3aql/bravtron/releases/download/v1.0/amazon-music-20.05.12-amd64.deb)
+   * [prime-video-20.05.12-amd64.deb](https://github.com/q3aql/bravtron/releases/download/v1.0/prime-video-20.05.12-amd64.deb)
+   * [spotify-web-player-20.05.12-amd64.deb](https://github.com/q3aql/bravtron/releases/download/v1.0/spotify-web-player-20.05.12-amd64.deb)
+   * [stadia-20.05.12-amd64.deb](https://github.com/q3aql/bravtron/releases/download/v1.0/stadia-20.05.12-amd64.deb)
 
 ### External links:
 
