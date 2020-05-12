@@ -1,0 +1,38 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
+# ------------------------------------------
+# Bravtron - Run Webs as App using Brave   |
+#                                          |
+# Created by q3aql (q3aql@protonmail.ch)   |
+# Licensed by GPL v2.0                     |
+# Last update: 12-05-2020                  |
+# Compatible with Python 3.x               |
+# ------------------------------------------
+version="1.0"
+
+#Import python-modules
+import os
+import sys
+
+# URL to load
+url_web = "https://netflix.com/"
+name_app = "netflix"
+
+#Check if your system use Python 3.x
+if sys.version_info<(3,0):
+	print ("")
+	print ("You need python 3.x to run this program.")
+	print ("")
+	exit()
+
+# Path Profiles
+profilepath = os.path.expanduser('~/.local/share/' + name_app)
+path = os.path.dirname(profilepath)
+
+# Command to run
+homecommand = 'HOME=' + path
+execute = 'base/brave --password-store=basic --app=' + url_web
+os.system('mkdir -p ' + profilepath)
+os.system(homecommand)
+os.system(execute)
